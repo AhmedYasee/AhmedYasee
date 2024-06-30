@@ -9,7 +9,7 @@
 - *My Mission* :lying_face: <br>
 Apply all I've learnt to real-life projects that will make our lives easier.
 
-- 👨‍💻 *All of my projects are available at* <br> [https://abrar-2510.github.io/updated-my-portfolio/](https://github.com/AhmedYasee)
+- 👨‍💻 *All of my projects are available at* <br> [https://github.com/AhmedYasee](https://github.com/AhmedYasee)
 
 
 - 📄 *Know about my experiences* <br>[https://drive.google.com/file/d/1cupTqWUsFGE256Cds-vKUK6ObZUOOtJT/view?usp=sharing](https://drive.google.com/file/d/1cupTqWUsFGE256Cds-vKUK6ObZUOOtJT/view?usp=sharing)
