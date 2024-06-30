@@ -59,18 +59,25 @@
 ### Education & Certificates :books:
 ---
 
-[![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org)
-[![DataCamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)](https://www.datacamp.com)
-[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com)
-[![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)](https://www.udacity.com)
+#### Benha University
+<img src="https://upload.wikimedia.org/wikipedia/en/6/60/Benha_University_logo.png" width="40" height="40" alt="Benha University logo"/>
+- **Student at Faculty of Engineering at Shoubra, Communication and Computer Department**
+
+
+#### Information Technology Institute (ITI)
+<img src="https://upload.wikimedia.org/wikipedia/en/3/34/Information_Technology_Institute_logo.png" width="40" height="40" alt="Information Technology Institute (ITI) logo"/>
+- **Intern, Back End Development | C#.Net**
+
+
+#### National Training Academy
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/National_Training_Academy_logo.png/1200px-National_Training_Academy_logo.png" width="40" height="40" alt="National Training Academy logo"/>
+- **Value Program Collaboration with Hayh Krimaa, Cybersecurity**
+
 
 ### Connect with Me :sunglasses:
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-yaseen-ab9379215/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engahmedyaseen4@gmail.com)
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engahmedyaseen4@gmail.com)
