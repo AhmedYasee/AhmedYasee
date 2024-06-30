@@ -68,15 +68,24 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://th.bing.com/th/id/R.8e8a90a94083813432628457eb4da146?rik=GNT3JtZh8umQoQ&pid=ImgRaw&r=0" width="40" height="40" alt="Benha University logo"/> Benha University</td>
+      <td>
+        <img src="https://th.bing.com/th/id/R.8e8a90a94083813432628457eb4da146?rik=GNT3JtZh8umQoQ&pid=ImgRaw&r=0" width="40" height="40" alt="Benha University logo"/>
+        <span style="vertical-align: middle;">Benha University</span>
+      </td>
       <td>Student at Faculty of Engineering at Shoubra, Communication and Computer Department</td>
     </tr>
     <tr>
-      <td><img src="https://images.wuzzuf-data.net/files/company_logo/Information-Technology-Institute-Egypt-57238-1601285572-og.png" width="40" height="40" alt="Information Technology Institute (ITI) logo"/> Information Technology Institute (ITI)</td>
+      <td>
+        <img src="https://images.wuzzuf-data.net/files/company_logo/Information-Technology-Institute-Egypt-57238-1601285572-og.png" width="40" height="40" alt="Information Technology Institute (ITI) logo"/>
+        <span style="vertical-align: middle;">Information Technology Institute (ITI)</span>
+      </td>
       <td>Intern, Back End Development | C#.Net</td>
     </tr>
     <tr>
-      <td><img src="https://eicwegypt.com/wp-content/uploads/2022/02/Logo-4.jpg" width="40" height="40" alt="National Training Academy logo"/> National Training Academy</td>
+      <td>
+        <img src="https://eicwegypt.com/wp-content/uploads/2022/02/Logo-4.jpg" width="40" height="40" alt="National Training Academy logo"/>
+        <span style="vertical-align: middle;">National Training Academy</span>
+      </td>
       <td>Value Program Collaboration with Hayh Krimaa, Cybersecurity</td>
     </tr>
   </tbody>
@@ -90,5 +99,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engahmedyaseen4@gmail.com)
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
