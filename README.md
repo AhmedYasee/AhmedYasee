@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Magic%20Community!&fontSize=50&fontAlign=50&fontAlignY=45&desc=Hi%20there!%20I'm%20Ahmed%20Yasein,%20a%20Software%20Engineer&descAlign=50&descAlignY=65)
 
-## 👋 Hi there! I'm Ahmed Yasein, a software engineer specializing in backend development with .NET and C#.
+
 
 - **My Mission** :lying_face: <br>
   Apply all I've learnt to real-life projects that will make our lives easier.
