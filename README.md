@@ -3,16 +3,15 @@
 
 
 - **My Mission** :lying_face: <br>
-  Apply all I've learnt to real-life projects that will make our lives easier.
+    Applying my knowledge and skills to develop innovative solutions that enhance everyday experiences.
 
 - 👨‍💻 **All of my projects are available at** <br>
-  [GitHub - AhmedYasee](https://github.com/AhmedYasee)
+  [GitHub - AhmedYaseen](https://github.com/AhmedYasee)
 
 - 📄 **Know about my experiences** <br>
   [My Resume](https://drive.google.com/file/d/1cupTqWUsFGE256Cds-vKUK6ObZUOOtJT/view?usp=sharing)
 
-- ⚡ **Fun fact** <br>
-  **I don't like drinking coffee but I prefer eating its powder**
+
 
 ### Skills :star_struck:
 ---
