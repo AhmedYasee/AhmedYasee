@@ -60,17 +60,23 @@
 ---
 
 #### Benha University
-<img src="https://th.bing.com/th/id/R.8e8a90a94083813432628457eb4da146?rik=GNT3JtZh8umQoQ&pid=ImgRaw&r=0" width="40" height="40" alt="Benha University logo"/>
+<p align="center">
+  <img src="https://th.bing.com/th/id/R.8e8a90a94083813432628457eb4da146?rik=GNT3JtZh8umQoQ&pid=ImgRaw&r=0" width="80" height="80" alt="Benha University logo"/>
+</p>
 - **Student at Faculty of Engineering at Shoubra, Communication and Computer Department**
 
 
 #### Information Technology Institute (ITI)
-<img src="https://images.wuzzuf-data.net/files/company_logo/Information-Technology-Institute-Egypt-57238-1601285572-og.png" width="40" height="40" alt="Information Technology Institute (ITI) logo"/>
+<p align="center">
+  <img src="https://images.wuzzuf-data.net/files/company_logo/Information-Technology-Institute-Egypt-57238-1601285572-og.png" width="80" height="80" alt="Information Technology Institute (ITI) logo"/>
+</p>
 - **Intern, Back End Development | C#.Net**
 
 
 #### National Training Academy
-<img src="https://eicwegypt.com/wp-content/uploads/2022/02/Logo-4.jpg" width="40" height="40" alt="National Training Academy logo"/>
+<p align="center">
+  <img src="https://eicwegypt.com/wp-content/uploads/2022/02/Logo-4.jpg" width="80" height="80" alt="National Training Academy logo"/>
+</p>
 - **Value Program Collaboration with Hayh Krimaa, Cybersecurity**
 
 
