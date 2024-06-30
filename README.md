@@ -60,19 +60,32 @@
 ---
 
 #### Benha University
-<img src="https://upload.wikimedia.org/wikipedia/en/6/60/Benha_University_logo.png" width="40" height="40" alt="Benha University logo"/>
+<img src="https://th.bing.com/th/id/R.8e8a90a94083813432628457eb4da146?rik=GNT3JtZh8umQoQ&pid=ImgRaw&r=0" width="40" height="40" alt="Benha University logo"/>
 - **Student at Faculty of Engineering at Shoubra, Communication and Computer Department**
-
+- **Jan 2021 - Sep 2025**
 
 #### Information Technology Institute (ITI)
-<img src="https://upload.wikimedia.org/wikipedia/en/3/34/Information_Technology_Institute_logo.png" width="40" height="40" alt="Information Technology Institute (ITI) logo"/>
+<img src="https://images.wuzzuf-data.net/files/company_logo/Information-Technology-Institute-Egypt-57238-1601285572-og.png" width="40" height="40" alt="Information Technology Institute (ITI) logo"/>
 - **Intern, Back End Development | C#.Net**
-
+- **Jul 2023 - Sep 2023**
+- Completed an intensive internship specializing in back-end development using C#.Net at the prestigious Information Technology Institute (ITI).
+- Applied theoretical knowledge of C# programming language to practical scenarios, focusing on developing robust back-end solutions.
+- Collaborated with a team of developers to design, implement, and test web applications using ASP.NET and Entity Framework.
+- Gained proficiency in database design, query optimization, and data modeling techniques.
+- Developed RESTful APIs to facilitate seamless communication between front-end and back-end systems.
+- Implemented security best practices to ensure the integrity and confidentiality of data within applications.
+- Utilized version control systems (e.g., Git) for collaborative development and code management.
 
 #### National Training Academy
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/National_Training_Academy_logo.png/1200px-National_Training_Academy_logo.png" width="40" height="40" alt="National Training Academy logo"/>
+<img src="https://eicwegypt.com/wp-content/uploads/2022/02/Logo-4.jpg" width="40" height="40" alt="National Training Academy logo"/>
 - **Value Program Collaboration with Hayh Krimaa, Cybersecurity**
-
+- **Mar 2023**
+- Participated in a specialized value program collaboration between the National Training Academy and Hayh Krimaa, focusing on cybersecurity.
+- Enhanced leadership skills through practical workshops and exercises tailored to the cybersecurity domain.
+- Acquired fundamental knowledge and techniques in cybersecurity, including threat detection, prevention, and response strategies.
+- Developed essential work skills and soft skills critical for effective teamwork and professional growth.
+- Strengthened communication abilities to effectively convey complex cybersecurity concepts and strategies.
+- Applied analytical skills to evaluate cybersecurity threats and formulate effective mitigation plans.
 
 ### Connect with Me :sunglasses:
 ---
@@ -80,4 +93,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-yaseen-ab9379215/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engahmedyaseen4@gmail.com)
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
